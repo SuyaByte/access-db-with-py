@@ -36,5 +36,5 @@ To interact with the csv using python, pandas library is needed. The following c
 - Finally, the database connection is closed. 
 
 ## Acknowledgement
-[IBM - Python Project for Data Engineering](https://www.coursera.org/programs/computer-science-comps-alternatives-zphna/learn/python-project-for-data-engineering?authProvider=ttu))
+[IBM - Python Project for Data Engineering](https://www.coursera.org/programs/computer-science-comps-alternatives-zphna/learn/python-project-for-data-engineering?authProvider=ttu)
 
