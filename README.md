@@ -18,7 +18,9 @@ The headers of the available data are :
 
 ## Set Up:
 This project is done as a part of IBM Data Engineering Certification Course. It is developed and executed in a Cloud IDE. In this project, the database is created on a dummy server using SQLite3 Library.
+
 To download the csv file needed for the project the following code is run in the terminal: wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PY0221EN-Coursera/labs/v2/INSTRUCTOR.csv
+
 To interact with the csv using python, pandas library is needed. The following command is run in the terminal to install it: python3.11 -m pip install pandas
 
 ## Code:
